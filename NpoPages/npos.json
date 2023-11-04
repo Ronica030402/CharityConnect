@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Siyabonga Africa",
+    "mission": "Fighting hunger and poverty",
+    "address": "30A Murial Brand St, Weltevreden 118-Ir, Brakpan, 1541",
+    "Tel": "+27 72 8488 315",
+    "Email":"info@siyabongaafrica.org.za",
+    "latitude": -26.248081413306725, 
+    "longitude": 28.377334522275813
+  },
+  {
+    "id": "2",
+    "name": "Endangered Wildlife Trust",
+    "mission": "Environmental conservation",
+    "address": "27 & 28 Austin road Glen Austin AH Midrand 1685 Gauteng",
+    "Tel": "+27 11 372 3600",
+    "Email": "ewt@ewt.org.za",
+    "latitude": -25.959062369959305, 
+    "longitude": 28.141877800121318
+  },
+  {
+    "id": "3",
+    "name": "Child Welfare South Africa",
+    "mission": "Child welfare and education",
+    "address": "167, 14th Road, Whitby Manor Office Estate, Noordwyk, Midrand",
+    "Tel": "087 822 1516",
+    "Email": "national@welfaresa.org.za",
+    "latitude": -25.955684251143083, 
+    "longitude": 28.13026677993411
+  },
+  {
+    "id": "4",
+    "name": "Sustainable agriculture",
+    "mission": "Promoting eco-friendly practices",
+    "address": "First Floor, Bridge House, Boundary Terraces, 1 Mariendahl Lane, Newlands 7700, South Africa",
+    "Tel": "+27 (0) 21 657 6600",
+    "Email": "malito.@wwwf.com",
+    "latitude": -33.5641926222879, 
+    "longitude": 18.424397956771973
+  },
+  {
+    "id": "5",
+    "name": "The Viva Foundation of South Africa",
+    "mission": "Supporting local communities",
+    "address": "371 Moshumi Street, Ext. 22, Alaska Informal Settlement, Mamelodi East 0122, South Africa",
+    "Tel": "+27 (0)79 635 2964",
+    "Email": "INFO@VIVAFOUNDATION.LIFE",
+    "latitude": -25.727421649857007, 
+    "longitude": 28.44358496678044
+  },
+  {
+    "id": "6",
+    "name": "Grace Animal Sanctuary",
+    "mission": "Rescue and care for animals",
+    "address": "45 Lucullus Street, Joostenberg Vlakte, Cape Town, South Africa",
+    "Tel": "072 844 0250",
+    "Email":"infor@graceanimalsanctuary.org",
+    "latitude": -33.82358009078271,
+    "longitude": 18.734315224498935
+  },
+  {
+    "id": "7",
+    "name": "SAME Foundation",
+    "mission": "Improving healthcare access",
+    "address": "4 Loop St, Cape Town City Centre, Cape Town, 8000",
+    "Tel": " 086 122 2379",
+    "Email":"info@samefoundation.org.za",
+    "latitude": -33.917778712409, 
+    "longitude": 18.422661668683308
+  },
+  {
+    "id": "8",
+    "name": "Arts & Culture Trust",
+    "mission": "Supporting arts and culture",
+    "address": "Studio 37, 2 Sam Hancock St, Braamfontein, Johannesburg, 2000",
+    "Tel": "010 023 0899",
+    "Email":"info@act.org.za",
+    "latitude": -26.186885059181073, 
+    "longitude": 28.041669381793156
+  },
+  {
+    "id": "9",
+    "name": "Phambano Technology Development Centre",
+    "mission": "Using technology for social impact",
+    "address": "87 De Korte Street Braamfontein, Johannesburg, 2001, Gauteng South Africa",
+    "Tel": "+27 010 007 2734",
+    "Email":"info@phambano.org.za",
+    "latitude": -26.19308381632827, 
+    "longitude": 28.03606352227338
+  },
+  {
+    "id": "10",
+    "name": "Education Africa",
+    "mission": "Providing quality education",
+    "address": "1st Floor, Sandton Close, 2B Norwich Cl, Sandown, Sandton, 2196",
+    "Tel": "+27 (11) 685-7300",
+    "Email":" mailbox@educationafrica.org",
+    "latitude": -26.104029478167448,
+    "longitude":  28.047689924118423
+  }
+]

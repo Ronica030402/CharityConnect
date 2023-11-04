@@ -1,0 +1,33 @@
+.time-picker-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .custom-time-picker {
+    font-size: 18px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    margin: 0 auto;
+  }
+  
+  /* Style the clock container (if clock is not disabled) */
+  .react-clock {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the clock face (if clock is not disabled) */
+  .react-clock__face {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style the clock hand (if clock is not disabled) */
+  .react-clock__hand {
+    background-color: #333;
+  }
+  
